@@ -3,7 +3,7 @@ Auth0 Database Custom DB scripts
 
 This repository contains the following custom database scripts
 
-1. [LDAP](https://github.com/vikasjayaram/auth0-customdb-scripts/tree/master/ldap)
+1. [LDAP CUSTOM DB](https://github.com/vikasjayaram/auth0-customdb-scripts/tree/master/ldap-customdb)
 
 ## What is Auth0?
 
